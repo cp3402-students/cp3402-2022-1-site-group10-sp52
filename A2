@@ -1,0 +1,7 @@
+echo "# cp3402-2022-1-site-group10-sp52" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github. com/cp3402-students/cp3402-2022-1-site-group10-sp52.git
+ git push -u origin main
