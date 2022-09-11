@@ -2,16 +2,9 @@
 
 The following is how development is recommended for this project
 
-1.Download and install WordPress
+#### 1.Install and Setup WordPress
 
-* First you need to determine your hosting server.
-  
-* We're using **hostgator** hosting server, You can choose your own favorite hosting server to use.
-  
-* Some hosting servers that can help you install Wordpress with one click, some can't.
-  
-* If you don't know how to install it, here is a tutorial on installing Wordpress on Linux Ubuntu 18.04: https://www.digitalocean.com/community/tutorials/install-wordpress-on-ubuntu
-    
-* WordPress Download address - https://wordpress.org/download/
+To install [WordPress](https://wordpress.org/download/) you need to have a hosting server. You can either use your own host or find a company online that provides a hosting server.. We're using "**[hostgator](https://www.hostgator.com/)**" hosting server, You can choose your own favorite hosting server to use.
+We use cPanel to install Wordpress. cPanel is an online Linux-based GUI, It will be relatively easy to use.After installing cPanel, if you don't know how to install Wordpress, you can follow this [video](https://www.youtube.com/watch?v=LIhNlzLgF78).
 
-2.
+#### 2.
