@@ -1,19 +1,35 @@
-This is the CP3402 Group 10 document which will help new users to learn and use our wordpress website. They will be introduced to the following documents:
-Theme.md
-Development.md
-Site.md
+# BaizonnLearningCenter
 
-The following file called a2.html will have these inside which are:
-
-Names of the members with their LinkedIn accounts and Github accounts.
-Goals of the webiste.
-Project links to the production and staging site, Github repository, Project board and a communication platform we used to chat with each other.
-Login in details for Wordpress for both the Production and Staging site.
-The custom theme for this Project is called Astra child theme and its in this main repository or you can download it from this repository.
-
-GITHUB Environment:
+The official repository of the BaizonnLearningCenter theme developed for the BaizonnLearningCenter [website](http://www.baizonn.com/).
 
 
-Agile Development
-This is a link to our video Presentation for Group 10:
+[Staging website](https://baizonn.site/group-10-staging/)
+admin:Group10
+password:Group10China
+
+[Production website](https://baizonn.site/)
+
+## Main Contributors
+- [Bingkun Li](https://github.com/levels0230)
+- [Jiale Hou](https://github.com/Haiqiangwang21)
+- [Huihuang Cai](https://github.com/aidenlignieres)
+- [Zimin Li](https://github.com/CalebWebsterJCU)
+- [Yizhen Chen](https://github.com/CalebWebsterJCU)
+
+## Contributing to this Project
+ [deployment.md](https://github.com/cp3402-students/cp3402-2022-1-site-group10-sp52/blob/main/Deployment.md) 
+[theme.md](https://github.com/cp3402-students/cp3402-2022-1-site-group10-sp52/blob/main/Theme.md)
+
+## Maintaining the BaizonnLearningCenter
+[Site admin](https://baizonn.site/admin)
+admin:Group10
+password:Group10China
+
+[site.md](https://github.com/cp3402-students/cp3402-2022-1-site-group10-sp52/blob/main/Site.md)
+
+## Using a Distributable Version of the BaizonnLearningCenter
+To obtain a distributable version of this theme, simply clone or zip the _[dist](https://github.com/cp3402-students/cp3402-2022-1-site-group10-sp52)
+
+
+
 
