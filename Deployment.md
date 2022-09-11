@@ -8,7 +8,7 @@ To install [WordPress](https://wordpress.org/download/) you need to have a hosti
 We use cPanel to install Wordpress. cPanel is an online Linux-based GUI, It will be relatively easy to use.After installing cPanel, if you don't know how to install Wordpress, you can follow this [video](https://www.youtube.com/watch?v=LIhNlzLgF78).
 
 #### 2.Download XML file
-Download the entire Github project ZIP file by clicking Code in the upper right corner and extract it. Find “baizonngroup10.WordPress.2022-09-09.The XML” file in the extracted file.
+Download the entire Github Repositories ZIP file by clicking Code in the upper right corner and extract it. Find “baizonngroup10.WordPress.2022-09-09.The XML” file in the extracted file.
 
 #### 3.Install the theme
-You can see the details of the Theme we use in the Github project folder at [Theme.md].
+You can see the details of the Theme we use in the Github Repositories folder at [Theme.md].
