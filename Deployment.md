@@ -17,4 +17,4 @@ You can see the details of the Theme we use in the Github Repositories folder at
 To import the XML file, we first go to the Wordpress menu. You can see a **Tools** bar in the menu, click on it. On the Tools menu that pops up, click **Import**. In the Import page, there will be some plugins for the Import. Find **WordPress Import** and install it. After the installation, click on Run Importer and the import page will open later. Click select files and find just downloaded "baizonngroup10. WordPress. 2022-09-09. The XML file, click open. Then click "Upload File and Import" to upload. Once uploaded, you can see the uploaded content in Pages.
 
 #### 5.Continue to develop
-Follow the above steps on you can get our developed website.Then you can build on it, adding or removing things you want.
+Follow the above steps on you can get our developed website. Then you can build on it, adding or removing things you want. You can find out how to add pages and the plugins we use in [Site.md](https://github.com/cp3402-students/cp3402-2022-1-site-group10-sp52/blob/main/Site.md).
