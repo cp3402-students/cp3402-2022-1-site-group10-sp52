@@ -11,10 +11,10 @@ password:Group10China
 
 ## Main Contributors
 - [Bingkun Li](https://github.com/levels0230)
-- [Jiale Hou](https://github.com/Haiqiangwang21)
-- [Huihuang Cai](https://github.com/aidenlignieres)
-- [Zimin Li](https://github.com/CalebWebsterJCU)
-- [Yizhen Chen](https://github.com/CalebWebsterJCU)
+- [Jiale Hou](https://github.com/CalebH122)
+- [Huihuang Cai](https://github.com/stick-sss)
+- [Zimin Li](https://github.com/Lizimin-jcu)
+- [Yizhen Chen](https://github.com/lemont1130)
 
 ## Contributing to this Project
  [deployment.md](https://github.com/cp3402-students/cp3402-2022-1-site-group10-sp52/blob/main/Deployment.md) 
